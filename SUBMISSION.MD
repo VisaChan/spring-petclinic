@@ -32,10 +32,10 @@ Details of failed build <br />
 ![Fixed Actions Board](images/FixedCoordinates.PNG) <br />
 Actions Page showing successful build fixing changes <br />  
 ![Fixed Build](images/FixedBuild.PNG) <br />
-Detailed of the fixed build <br />
+Details of the fixed build <br />
 
 [5 pts] Your GitHub repository with the readme.md file selected showing the build success status after the GitHub workflow has recovered. <br />
 ![Fixed Badge](images/FixedReadMe.PNG) <br />
-Showing readme.md file being selected <br />  
+readme.md file with the badge showing a success status from the GitHub repo <br />  
 ![Fixed Badge With Commit Message](images/FixedBadgeAndCommit.PNG) <br />
-Showing readme.md file with the commit message used to fix the build
+Showing readme.md file with the badge showing a success status along with the commit message used to fix the build on top
