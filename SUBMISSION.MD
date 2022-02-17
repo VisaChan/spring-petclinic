@@ -30,7 +30,7 @@ Details of failed build <br />
 
 [5 pts] Your GitHub Actions dashboard showing the successful build after the breaking change has been fixed. <br />
 ![Fixed Actions Board](images/FixedCoordinates.PNG) <br />
-Actions Page showing successful build fixing changes <br />  
+Actions Page showing successful build after making changes to fix build<br />  
 ![Fixed Build](images/FixedBuild.PNG) <br />
 Details of the fixed build <br />
 
@@ -38,4 +38,4 @@ Details of the fixed build <br />
 ![Fixed Badge](images/FixedReadMe.PNG) <br />
 readme.md file with the badge showing a success status from the GitHub repo <br />  
 ![Fixed Badge With Commit Message](images/FixedBadgeAndCommit.PNG) <br />
-Showing readme.md file with the badge showing a success status along with the commit message used to fix the build on top
+readme.md file with the badge showing a success status along with the commit message associated with the fixed build (Commit message is shown on top part of screenshot)
