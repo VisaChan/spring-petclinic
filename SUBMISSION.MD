@@ -6,7 +6,7 @@ DOCKER <br />
 dockerfile: https://github.com/VisaChan/spring-petclinic/blob/master/Dockerfile.txt
 
 [5 pts] Your running docker instance as shown by a ps command. <br />
-![Running Docker instance](images/HW8/DockeRun.PNG) <br />
+![Running Docker instance](images/HW8/DockerRun.PNG) <br />
 
 [5 pts] Your browser accessing the main page of the website from your local container. <br />
 ![Browser Docker](images/HW8/DockerBrowser.PNG) <br />
