@@ -22,7 +22,7 @@ DOCKER COMPOSE - MYSQL ONLY <br />
 ![Docker Vet MySQL](images/HW8/DockerVet.PNG) <br />
 
 [5 pts] A section of the stack trace generated when you attempt to run the application container that has been updated to use MySQL. <br />
-![Docker Stack Trace](images/HW8/DockerStackTraceP.PNG) <br />
+![Docker Stack Trace](images/HW8/DockerStackTraceEZ4.PNG) <br />
 
 DOCKER COMPOSE - APP SERVER AND MYSQL <br />
 
